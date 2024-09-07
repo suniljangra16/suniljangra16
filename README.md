@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suniljangra16
 - 👀 I’m interested in Data science,Analysis ,ML 
-- 🌱 I’m currently learning Deep learning , NLP 
+- 🌱 I’m currently  advanced machine learning techniques and improving my skills in Python and SQL. 
 - 📫 How to reach me sj231795@gmail.com
 
 
